@@ -1,0 +1,23 @@
+const Lables ={
+    title_Surmount:'Surmount',
+    title_Finance:'Finance',
+    qoute:'Stock Market & Financial News',
+    login:'Login',
+    forgot_password:'Forgot Password?',
+    forgot_qoute:"Please enter your email address you will receive a code to create a new password",
+    new_user:'New User?',
+    create_Account:'Create Account',
+    signUp:'Sign Up',
+    signUp_qoute:'Your privacy is important to us',
+    already_have_account:'Already have an account?',
+    log_in:'Log in',
+    send:'Send',
+    create_new_password:"Create New Password",
+    new_passwor_qoute:'Enter your new password',
+    confirm:'Confirm',
+    verfiyCode:"Enter 4 Digit Code",
+    verfiyCode_qoute:"The was sent to your email address please enter the code to create a new password",
+    passwordReset_Success:"Password Reset Successful",
+    passwordReset_qoute:"Use your new password when logging in",
+}
+export default Lables
